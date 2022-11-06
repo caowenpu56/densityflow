@@ -1,8 +1,8 @@
-# Constructing diverse urban clusters based on population distribution and interaction
-by Wenpu Cao, Lei Dong, Ying Cheng, Lun Wu, and Yu Liu
+# Constructing multi-level urban clusters based on population distributions and interactions
+by Wenpu Cao, Lei Dong, Ying Cheng, Lun Wu, Qinghua Guo, and Yu Liu
 
 ## Abstract
-A city (or an urban cluster) is not an isolated spatial unit, but a combination of areas with closely linked socio-economic activities. However, so far, we lack a universal and quantitative approach to define cities/urban clusters with these socio-economic connections. Here, using granular population distribution and flow data in China, we propose a bottom-up approach to quantify urban clusters at multi-levels. We reveal six ‘phases’ (i.e., levels) in the population density-flow diagram, each of which corresponds to a spatial definition of urban systems from large to small. Furthermore, our results show that the Zipf’s law and the population-area allometric growth only appear after the fifth level, responding to the long-debated spatial dependence of urban laws. Our approach is not dependent on pre-defined city boundaries and can be applied effectively on a global scale.
+A city (or an urban cluster) is not an isolated spatial unit, but a combination of areas with closely linked socio-economic activities. However, so far, we lack a consistent and quantitative approach to define multi-level urban clusters through these socio-economic connections. Here, using granular population distribution and flow data from China, we propose a bottom-up aggregation approach to quantify urban clusters at multiple spatial scales. We reveal six "phases" (i.e., levels) in the population density-flow diagram, each of which corresponds to a spatial configuration of urban clusters from large to small. Besides, our results show that Zipf's law appears only after the fifth level, confirming the spatially dependent nature of urban laws. Our approach does not need pre-defined administrative boundaries and can be applied effectively on a global scale.
 
 ## Replication data and codes
 1. Data
